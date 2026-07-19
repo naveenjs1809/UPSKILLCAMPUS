@@ -1,0 +1,39 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE - Eclipse
+.project
+.classpath
+.settings/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# IDE - NetBeans
+nbproject/private/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
